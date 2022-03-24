@@ -16,6 +16,7 @@ public class CreateProductTest {
 	public void CreateProduct() {
 		
 		System.out.println("Create Product sucessfuly");
+		System.out.println("update");
 		
 }
 
